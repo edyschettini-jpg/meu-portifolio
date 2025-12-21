@@ -1,39 +1,39 @@
 # 👋 Olá!
 
 Sou um **desenvolvedor iniciante**, estudando programação com foco em **desenvolvimento web**.  
-Estou em constante aprendizado e buscando oportunidades para ganhar experiência prática.
+Estou em constante aprendizado e buscando oportunidades para ganhar experiência prática através de projetos reais.
 
 ---
 
 ## 🛠️ Tecnologias
 - HTML5  
 - CSS3  
-- JavaScript (básico)  
 - Git & GitHub  
 
 ---
 
 ## 📂 Projetos
 
-### 🔹 Landing Page Simples
-Página estática criada com HTML e CSS, com layout limpo e responsivo.  
-**Tecnologias:** HTML, CSS
+### 🔹 Loja JK (inspirada em Jungkook – BTS)
+Site de loja fictícia inspirado nos looks do Jungkook (BTS), com foco em visual, organização dos produtos e layout responsivo.
 
-### 🔹 Página de Apresentação Pessoal
-Site simples com seções organizadas e visual agradável.  
-**Tecnologias:** HTML, CSS
+**Tecnologias:** HTML, CSS  
+**Objetivo:** praticar estruturação de páginas e estilização com CSS
 
-### 🔹 Projeto em JavaScript
-Projeto simples para praticar lógica e manipulação do DOM.  
-**Tecnologias:** HTML, CSS, JavaScript
+---
+
+### 🔹 Página estilo Apple
+Página criada como exercício de layout, inspirada no site da Apple, priorizando design limpo, espaçamento e hierarquia visual.
+
+**Tecnologias:** HTML, CSS  
+**Objetivo:** treinar design moderno e fidelidade visual
 
 ---
 
 ## 📌 Objetivo
-Busco oportunidades como **freelancer iniciante**, estágio ou posição júnior.
+Busco oportunidades como **freelancer iniciante**, estágio ou projetos simples para ganhar experiência prática e evoluir como desenvolvedor web.
 
 ---
 
 ## 📫 Contato
-- GitHub: https://github.com/edyschettini-jpg/seuusuario  
-- Email: edyschettini@gmail.com
+- GitHub: https://github.com/edyschettini-jpg/seuusuario
