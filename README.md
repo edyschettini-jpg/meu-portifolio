@@ -23,6 +23,11 @@ Site de loja fictícia inspirado nos looks do Jungkook (BTS), com foco em visual
 
 ---
 
+🍕 Pizzaria Bella Napoli (site fictício)
+Site institucional fictício de pizzaria, com foco em layout simples, apresentação do cardápio e interatividade básica para simulação de pedidos.
+Tecnologias: HTML, CSS, JavaScript
+Objetivo: praticar estruturação de páginas, estilização com CSS e uso básico de JavaScript para manipulação do DOM
+
 
 ## 📌 Objetivo
 Busco oportunidades como **freelancer iniciante**, estágio ou projetos simples para ganhar experiência prática e evoluir como desenvolvedor web.
