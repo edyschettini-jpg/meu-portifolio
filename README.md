@@ -27,6 +27,7 @@ Site de loja fictícia inspirado nos looks do Jungkook (BTS), com foco em visual
 Site institucional fictício de pizzaria, com foco em layout simples, apresentação do cardápio e interatividade básica para simulação de pedidos.
 
 **Tecnologias:** HTML, CSS, JavaScript
+
 **Objetivo:** praticar estruturação de páginas, estilização com CSS e uso básico de JavaScript para manipulação do DOM
 
 ---
