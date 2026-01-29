@@ -22,13 +22,6 @@ Site de loja fictícia inspirado nos looks do Jungkook (BTS), com foco em visual
 
 ---
 
-### 🔹 Página estilo Apple
-Página criada como exercício de layout, inspirada no site da Apple, priorizando design limpo, espaçamento e hierarquia visual.
-
-**Tecnologias:** HTML, CSS  
-**Objetivo:** treinar design moderno e fidelidade visual
-
----
 
 ## 📌 Objetivo
 Busco oportunidades como **freelancer iniciante**, estágio ou projetos simples para ganhar experiência prática e evoluir como desenvolvedor web.
