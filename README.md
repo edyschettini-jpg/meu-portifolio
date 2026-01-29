@@ -8,7 +8,8 @@ Estou em constante aprendizado e buscando oportunidades para ganhar experiência
 ## 🛠️ Tecnologias
 - HTML5  
 - CSS3  
-- Git & GitHub  
+- Git & GitHub
+- Javascript básico 
 
 ---
 
